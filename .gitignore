@@ -1,3 +1,4 @@
 data/train_cab.csv
 data/creditcard.csv
+data/nyc_taxi_data_2014.csv
 .ipynb_checkpoints
